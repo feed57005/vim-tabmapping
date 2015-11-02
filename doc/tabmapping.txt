@@ -1,0 +1,13 @@
+*tabmapping.txt* Plugin for smart tab mapping ala tmux/screen        *tabmapping*
+
+
+Plugin that maps <leader>t to following:
+
+<leader>tt    Toggle between last tab
+<leader>t1-9  Swith to tab number 1-9
+<leader>tc    Create new tab
+<leader>tx    Close tab
+<leader>tn    Next tab
+<leader>tp    Previous tab
+
+ vim:tw=78:sw=4:ft=help:norl:
